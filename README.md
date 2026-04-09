@@ -2,7 +2,11 @@
 Ever wanted to be comboss and larp on dc servers? Then this is the perfect script for you.
 
 ## Usage
-Tested on Chrome, Firefox, LibreWolf, Edge
+Tested on Chrome, Firefox, LibreWolf, Edge. Recommended Firefox + Violentmonkey.
+
+1. Install Violentmonkey https://violentmonkey.github.io/get-it/ or Tampermonkey (for chrome and edge) https://www.tampermonkey.net/index.php
+2. Add script. For Tampermonkey on chrome/edge you'll have to enable developer mode and enable userscripts.
+3. On Roobet, press ctrl + a to display the menu.
 
 # Screenshots
 <img width="561" height="339" alt="real_wallet_no_fake_100_real" src="https://github.com/user-attachments/assets/a2d72a21-0272-42b6-9923-ebeb857e9ba9" />
