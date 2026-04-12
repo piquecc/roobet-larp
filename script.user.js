@@ -184,6 +184,8 @@
         document.querySelectorAll(SEL.balanceText).forEach(el => {
             el.textContent = `$${balance}`;
         });
+
+        document.getElementById("simple-popover").remove();
     }
 
     let timeout;
