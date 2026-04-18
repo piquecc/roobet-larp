@@ -148,7 +148,7 @@
         nextRank: 'span.MuiTypography-root.MuiTypography-text_s.css-x17ll9',
         rankImg1: 'img.MuiBox-root.css-ws1l4a',
         rankImg2: 'img.MuiBox-root.css-pik4km',
-        balanceText: 'p.MuiTypography-root.MuiTypography-body1.css-1bmkrmt',
+        balanceText: 'p.MuiTypography-root.MuiTypography-body1.css-o0d6bw'
     };
 
     function hook() {
